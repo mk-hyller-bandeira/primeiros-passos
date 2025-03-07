@@ -2,4 +2,4 @@
 
 - participantes:
     - Marcelo
-    - Cmalia
+    - Camalia
