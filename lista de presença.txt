@@ -3,3 +3,5 @@
 - participantes:
     - Marcelo
     - Camila
+    - Guilherme
+    - Antonio
