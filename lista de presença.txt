@@ -5,3 +5,4 @@
     - Camila
     - Guilherme
     - Antonio
+    - Mauricio
